@@ -8,7 +8,7 @@ I'm a **Software/AI Engineer** at [Calibrax AI](https://www.calibrax.ai/), a sof
 
 I studied **Digital Media Technology Engineering** at **XMUM (Xiamen University Malaysia)** and graduated in 2023. The course had a bit of everything: game dev, AR/VR, 3D animation, VFX, film and software engineering. I came out half creative, half coder, and I still use both sides.
 
-After graduating, I spent 2023 and 2024 working with clients and small businesses. I ran their marketing, shot and edited their videos, worked on their SEO, and built systems to track how it was all going.
+After graduating, I spent 2023 and 2024 working with clients and small businesses. I ran their marketing, produced commercial videos, worked on their SEO, and built marketing analytics to see what was actually working.
 
 Along the way I realised the part I liked most was solving real problems for real people. So from 2025, I went all in on software. Self-taught, I've since built web apps, AI agents, automations and the infra behind them for real businesses.
 
