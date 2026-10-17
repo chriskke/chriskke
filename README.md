@@ -10,7 +10,7 @@ I graduated from **XMUM (Xiamen University Malaysia)** in 2023 with a degree in 
 
 I didn't jump straight into coding after graduating. From 2023 to 2024 I worked with clients and small businesses, doing their marketing, shooting and editing videos, handling SEO, and building analytics systems.
 
-What hooked me wasn't one tool or one job. It was the feeling of finding a real problem and actually fixing it. So I started teaching myself by building apps, breaking them, and building them again. No bootcamp, just a lot of trial, error and reaching out to people.
+What hooked me wasn't one tool or one job. It was the feeling of finding a real problem and actually fixing it. So I taught myself to build software by working on real projects. I picked up the fundamentals properly, read a lot of docs, and reached out to people who'd been there before me. Every project taught me something the last one didn't.
 
 That's pretty much how I still learn today.
 
