@@ -6,9 +6,9 @@ Right now I'm an **AI Engineer** at [Calibrax AI](https://www.calibrax.ai/), a s
 
 ### How I got here
 
-I graduated from **XMUM (Xiamen University Malaysia)** in 2023 with a degree in **Digital Media Technology Engineering**. It's basically half creative, half code, and I still use both halves every day.
+I graduated from **XMUM (Xiamen University Malaysia)** in 2023 with a degree in **Digital Media Technology Engineering**. The course covered a bit of everything: game development, AR/VR, 3D modelling and animation, VFX and film, plus the software engineering to tie it together. Basically half creative, half code, and I still use both halves every day.
 
-I didn't jump straight into coding after graduating. From 2023 to 2024 I did marketing, shot and edited videos, worked on SEO, and built analytics systems.
+I didn't jump straight into coding after graduating. From 2023 to 2024 I worked with clients and small businesses, doing their marketing, shooting and editing videos, handling SEO, and building analytics systems.
 
 What hooked me wasn't one tool or one job. It was the feeling of finding a real problem and actually fixing it. So I started teaching myself by building apps, breaking them, and building them again. No bootcamp, just a lot of trial, error and reaching out to people.
 
@@ -36,8 +36,8 @@ But there's a line between **using AI as a tool** and **letting it do all the th
 
 Here's what a lot of vibe coders miss: getting an app working on your laptop is easy now. Keeping it up when 10,000 people hit it at once is a different story. That takes real engineering: how it scales, how it's deployed, and what happens when something breaks. AI can write the code, but it won't make those calls for you. That's where I come in.
 
-### Come say hi
+### Let's build something
 
-Always happy to talk about AI, infra, building stuff, or whatever random thing I'm trying this week.
+Got a project, a role, or just an idea you want to bounce around? I'm always up for collabs, job chats, or a good talk about AI, infra, or whatever random thing I'm trying this week. Reach out.
 
 [LinkedIn](https://www.linkedin.com/in/chris-kwek-7b4984222/) · [chris552611@gmail.com](mailto:chris552611@gmail.com)
