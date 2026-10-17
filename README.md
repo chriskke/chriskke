@@ -16,28 +16,26 @@ That's pretty much how I still learn today.
 
 ### What I do now
 
-- **AI engineering:** building AI-powered tools and automation for real business problems
-- **Web apps:** mostly JavaScript and TypeScript
-- **Infra and DevOps:** Kubernetes, AWS, autoscaling (so things don't fall over when real traffic shows up)
-- **Data problems:** collecting, cleaning and making sense of messy data
-- **Still a creative at heart:** I care how things look and feel, not just whether they run
+- **AI engineering:** AI tools and automation for real business problems
+- **Web apps:** JavaScript and TypeScript
+- **Infra:** Kubernetes, AWS, autoscaling
+- **Data:** turning messy data into something useful
+- **Design:** I care how it looks, not just if it runs
 
-I know my way around a lot of the stack, but every project shows me there's more to learn. Honestly, that's the fun part.
+I know a lot of the stack, and there's always more to learn.
 
-### Tools I reach for
+### Tools
 
 [![My tools](https://skillicons.dev/icons?i=js,ts,py,nodejs,react,nextjs,postgres,mongodb,docker,kubernetes,aws&perline=11)](https://skillicons.dev)
 
 ### My take on AI
 
-Things are moving crazy fast. I'd be lying if I said I don't use AI coding agents. I do, every day. It's literally my job.
+Things move fast, and yes, I use AI coding agents every day. But AI is my tool, not my brain. I still want to know what it wrote and why.
 
-But there's a line between **using AI as a tool** and **letting it do all the thinking**. I try to stay on the right side of it. AI makes me faster, but I still want to know what it wrote and why.
-
-Here's what a lot of vibe coders miss: getting an app working on your laptop is easy now. Keeping it up when 10,000 people hit it at once is a different story. That takes real engineering: how it scales, how it's deployed, and what happens when something breaks. AI can write the code, but it won't make those calls for you. That's where I come in.
+Getting an app working is easy now. Keeping it up when 10,000 people hit it is the hard part. That takes real engineering, and that's what sets me apart from vibe coding.
 
 ### Let's build something
 
-Got a project, a role, or just an idea you want to bounce around? I'm always up for collabs, job chats, or a good talk about AI, infra, or whatever random thing I'm trying this week. Reach out.
+Projects, roles, collabs, or just a chat about AI and infra. Reach out.
 
 [LinkedIn](https://www.linkedin.com/in/chris-kwek-7b4984222/) · [chris552611@gmail.com](mailto:chris552611@gmail.com)
