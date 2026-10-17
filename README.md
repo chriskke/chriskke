@@ -16,8 +16,10 @@ That's pretty much how I still learn today.
 
 ### What I do now
 
-- **AI engineering:** AI tools and automation for real business problems
+- **AI engineering:** AI tools for real business problems
+- **Automation:** workflows that take the boring work off people's plates
 - **Web apps:** JavaScript and TypeScript
+- **Web visibility:** SEO and conversion optimisation, so people find the site and actually act on it
 - **Infra:** Kubernetes, AWS, autoscaling
 - **Data:** turning messy data into something useful
 - **Design:** I care how it looks, not just if it runs
