@@ -10,7 +10,7 @@ I studied **Digital Media Technology Engineering** at **XMUM (Xiamen University 
 
 After graduating, I spent 2023 and 2024 working with clients and small businesses. I ran their marketing, shot and edited their videos, worked on their SEO, and built systems to track how it was all going.
 
-Along the way I realised the part I liked most was solving real problems for real people. So from 2025, I went all in on software. I taught myself by building actual projects, getting the fundamentals right, reading a lot of docs, and asking people who'd done it before. I still learn the same way today.
+Along the way I realised the part I liked most was solving real problems for real people. So from 2025, I went all in on software. Self-taught, I've since built web apps, AI agents, automations and the infra behind them for real businesses.
 
 ### What I do now
 
@@ -21,7 +21,7 @@ Along the way I realised the part I liked most was solving real problems for rea
 - **Infra:** Kubernetes, AWS and autoscaling, so things stay up when traffic grows
 - **Data:** taking messy data and turning it into something useful
 
-I've picked up a lot across the stack, but I'm still learning something new every week.
+I've built across the whole stack, from the UI down to the servers. Still, there's always more to catch up on.
 
 ### My take on AI
 
