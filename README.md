@@ -1,6 +1,6 @@
 # Hey, I'm Chris
 
-I'll try anything once. Results vary.
+I'll try anything once.
 
 AI Engineer at [Calibrax AI](https://www.calibrax.ai/), a software consultancy in Malaysia.
 
