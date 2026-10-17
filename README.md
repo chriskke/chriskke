@@ -34,7 +34,7 @@ I know a lot of the stack, and there's always more to learn.
 
 Things move fast, and yes, I use AI coding agents every day. But AI is my tool, not my brain. I still want to know what it wrote and why.
 
-Getting an app working is easy now. Keeping it up when 10,000 people hit it is the hard part. That takes real engineering, and that's what sets me apart from vibe coding.
+Getting an app working is easy now. Keeping it up when 10,000 people hit it is the hard part. That takes real engineering, and that's what sets me apart from vibe coders.
 
 ### Let's build something
 
