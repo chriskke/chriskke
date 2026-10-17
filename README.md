@@ -26,10 +26,6 @@ That's pretty much how I still learn today.
 
 I know a lot of the stack, and there's always more to learn.
 
-### Tools
-
-[![My tools](https://skillicons.dev/icons?i=js,ts,py,nodejs,react,nextjs,postgres,mongodb,docker,kubernetes,aws&perline=11)](https://skillicons.dev)
-
 ### My take on AI
 
 Things move fast, and yes, I use AI coding agents every day. But AI is my tool, not my brain. I still want to know what it wrote and why.
@@ -41,3 +37,7 @@ Getting an app working is easy now. Keeping it up when 10,000 people hit it is t
 Projects, roles, collabs, or just a chat about AI and infra. Reach out.
 
 [LinkedIn](https://www.linkedin.com/in/chris-kwek-7b4984222/) · [chris552611@gmail.com](mailto:chris552611@gmail.com)
+
+### Tools
+
+[![My tools](https://skillicons.dev/icons?i=js,ts,py,nodejs,react,nextjs,postgres,mongodb,docker,kubernetes,aws&perline=11)](https://skillicons.dev)
