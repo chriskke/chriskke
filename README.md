@@ -2,7 +2,7 @@
 
 I'm the kind of person who'll try anything at least once.
 
-These days I'm a **Software/AI Engineer** at [Calibrax AI](https://www.calibrax.ai/), a software consultancy in Malaysia.
+I'm a **Software/AI Engineer** at [Calibrax AI](https://www.calibrax.ai/), a software consultancy in Malaysia.
 
 ### How I got here
 
