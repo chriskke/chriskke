@@ -10,7 +10,7 @@ I graduated from **XMUM (Xiamen University Malaysia)** in 2023 in **Digital Medi
 
 From 2023 to 2024, I worked with clients and small businesses on marketing, video, SEO and analytics.
 
-Solving real problems is what hooked me. So I taught myself to build software through real projects, solid fundamentals, lots of docs, and people who'd done it before. That's still how I learn.
+From 2025, I went all in on software. Solving real problems hooked me, so I taught myself through real projects, solid fundamentals, lots of docs, and people who'd done it before. That's still how I learn.
 
 ### What I do now
 
