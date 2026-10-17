@@ -32,7 +32,7 @@ Getting an app working is pretty easy now. Keeping it running when 10,000 people
 
 ### Let's build something
 
-Got a project, a role, or just want to chat about AI or infra? I'm always open to it, so feel free to reach out.
+Got a problem you're stuck on, a project in mind, or a role to fill? I'd love to hear about it and see how I can help. Feel free to reach out.
 
 [LinkedIn](https://www.linkedin.com/in/chris-kwek-7b4984222/) · [chris552611@gmail.com](mailto:chris552611@gmail.com)
 
