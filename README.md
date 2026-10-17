@@ -1,38 +1,38 @@
 # Hey, I'm Chris
 
-I'll try anything once.
+I'm the kind of person who'll try anything at least once.
 
-AI Engineer at [Calibrax AI](https://www.calibrax.ai/), a software consultancy in Malaysia.
+These days I'm an **AI Engineer** at [Calibrax AI](https://www.calibrax.ai/), a software consultancy in Malaysia.
 
 ### How I got here
 
-I graduated from **XMUM (Xiamen University Malaysia)** in 2023 in **Digital Media Technology Engineering**: game dev, AR/VR, 3D animation, VFX, film and software engineering. Half creative, half code. I still use both.
+I studied **Digital Media Technology Engineering** at **XMUM (Xiamen University Malaysia)** and graduated in 2023. The course had a bit of everything: game dev, AR/VR, 3D animation, VFX, film and software engineering. I came out half creative, half coder, and I still use both sides.
 
-From 2023 to 2024, I worked with clients and small businesses on marketing, video, SEO and analytics.
+After graduating, I spent 2023 and 2024 working with clients and small businesses. I ran their marketing, shot and edited their videos, worked on their SEO, and built systems to track how it was all going.
 
-From 2025, I went all in on software. Solving real problems hooked me, so I taught myself through real projects, solid fundamentals, lots of docs, and people who'd done it before. That's still how I learn.
+Along the way I realised the part I liked most was solving real problems for real people. So from 2025, I went all in on software. I taught myself by building actual projects, getting the fundamentals right, reading a lot of docs, and asking people who'd done it before. I still learn the same way today.
 
 ### What I do now
 
-- **AI engineering:** AI tools for real business problems
-- **Automation:** workflows that cut the boring work
-- **Web apps:** JavaScript and TypeScript
-- **Web visibility:** SEO and conversion optimisation
-- **Infra:** Kubernetes, AWS, autoscaling
-- **Data:** turning messy data into something useful
-- **Design:** it should look good, not just run
+- **AI engineering:** building AI tools that solve actual business problems
+- **Automation:** setting up workflows so people stop doing the boring stuff by hand
+- **Web apps:** mostly JavaScript and TypeScript
+- **Web visibility:** SEO and conversion optimisation, so people find the site and actually do something on it
+- **Infra:** Kubernetes, AWS and autoscaling, so things stay up when traffic grows
+- **Data:** taking messy data and turning it into something useful
+- **Design:** the creative side never left. I want things to look good, not just work
 
-Always still learning.
+I've picked up a lot across the stack, but I'm still learning something new every week.
 
 ### My take on AI
 
-AI moves fast, and I use coding agents every day. But AI is my tool, not my brain. I want to know what it wrote and why.
+AI is moving really fast, and I'd be lying if I said I don't use coding agents. I use them every day. But for me, AI is a tool, not a replacement for thinking. If it writes something, I want to understand what it did and why.
 
-Getting an app working is easy now. Keeping it up when 10,000 people hit it isn't. That takes real engineering, and that's what sets me apart from vibe coders.
+Getting an app working is pretty easy now. Keeping it running when 10,000 people use it at once is a whole different game. That part takes real engineering, and I think that's what sets me apart from vibe coders.
 
 ### Let's build something
 
-Projects, roles, collabs, or a chat about AI and infra. Reach out.
+Got a project, a role, or just want to chat about AI or infra? I'm always open to it, so feel free to reach out.
 
 [LinkedIn](https://www.linkedin.com/in/chris-kwek-7b4984222/) · [chris552611@gmail.com](mailto:chris552611@gmail.com)
 
