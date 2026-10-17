@@ -14,14 +14,12 @@ Along the way I realised the part I liked most was solving real problems for rea
 
 ### What I do now
 
-- **AI engineering:** building AI tools that solve actual business problems
+- **Agentic systems:** building AI agents and the harnesses around them, meaning the tools, guardrails and workflows that let them do real work reliably
 - **Automation:** setting up workflows so people stop doing the boring stuff by hand
 - **Web apps:** mostly JavaScript and TypeScript
 - **Web visibility:** SEO and conversion optimisation, so people find the site and actually do something on it
 - **Infra:** Kubernetes, AWS and autoscaling, so things stay up when traffic grows
 - **Data:** taking messy data and turning it into something useful
-- **Design:** the creative side never left. I want things to look good, not just work
-
 I've picked up a lot across the stack, but I'm still learning something new every week.
 
 ### My take on AI
