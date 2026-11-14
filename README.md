@@ -10,13 +10,9 @@ Coding agents are good enough now that I no longer babysit them. The work has mo
 
 I also have to keep my agentic development harness up to date. The models and tools change too quickly to leave it alone for long.
 
-I don't see agents as a replacement for the engineer. I like exploring agentic harnesses because they let me squeeze every bit of intelligence out of today's flagship models and get more problems solved. Deciding what to build, what the agent needs to know, and whether the result holds up in production is still my job.
-
 ### Background
 
-I studied **Digital Media Technology Engineering** at **XMUM (Xiamen University Malaysia)** and graduated in 2023. The course covered game dev, AR/VR, 3D animation, VFX, film and software engineering.
-
-I spent 2023 and 2024 working with clients and small businesses on marketing, commercial video, SEO and marketing analytics. In 2025 I moved fully into software. Since then I've built web apps, AI agents, automations and the infra behind them for businesses.
+I studied **Digital Media Technology Engineering** at **XMUM (Xiamen University Malaysia)**, graduating in 2023. I spent two years on marketing, video and SEO for small businesses, then moved fully into software in 2025.
 
 ### Contact
 
