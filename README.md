@@ -8,7 +8,7 @@
 
 Coding agents are good enough now that I no longer babysit them. The work has moved upstream. Most of my time goes into context engineering: getting the agent's context right before any implementation starts, so the task comes back accurate and as expected.
 
-My agentic development workflow is never finished. Things move too quickly for that, so I keep rebuilding it as the models and tools change.
+I also have to keep my agentic development harness up to date. The models and tools change too quickly to leave it alone for long.
 
 I don't see agents as a replacement for the engineer. I like exploring agentic harnesses because they let me squeeze every bit of intelligence out of today's flagship models and get more problems solved. Deciding what to build, what the agent needs to know, and whether the result holds up in production is still my job.
 
