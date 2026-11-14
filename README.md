@@ -1,6 +1,6 @@
 <img src="this-is-fine.gif" alt="This is fine: a dog sitting calmly in a burning room" width="100%">
 
-# Henlo, Chris Kwek here :)
+# Henlo, Chris here :)
 
 **Forward Deployed / Platform Engineer** based in Malaysia. I work across software, DevOps, AI and data, and build customized solutions around the problem each business actually has.
 
