@@ -12,15 +12,6 @@ I also have to keep my agentic development harness up to date. The models and to
 
 I don't see agents as a replacement for the engineer. I like exploring agentic harnesses because they let me squeeze every bit of intelligence out of today's flagship models and get more problems solved. Deciding what to build, what the agent needs to know, and whether the result holds up in production is still my job.
 
-### What I work on
-
-- **Agentic systems:** AI agents and the harnesses around them, meaning the tools, guardrails and workflows that let them do real work reliably
-- **Automation:** workflows that take repetitive manual work off people's hands
-- **Web apps:** mostly JavaScript and TypeScript
-- **Web visibility:** SEO and conversion optimisation
-- **Infra:** Kubernetes, AWS and autoscaling
-- **Data:** turning messy data into something a business can use
-
 ### Background
 
 I studied **Digital Media Technology Engineering** at **XMUM (Xiamen University Malaysia)** and graduated in 2023. The course covered game dev, AR/VR, 3D animation, VFX, film and software engineering.
